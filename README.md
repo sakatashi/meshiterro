@@ -1,24 +1,13 @@
-# README
+# meshiterro
+DMM WEBCAMPコンテンツ/「アプリケーションを完成させよう2」Meshiterro は模擬的な画像投稿サイトです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ご飯の画像をユーザーが投稿し、それに対していいねやコメントをつけることができるサイトです
+## 実装機能
+* 画像投稿の一覧表示
+* 画像投稿の詳細表示
+* 画像投稿の削除機能
+* コメント機能
+* いいね機能
+* ユーザ登録機能/ログイン機能
+* ユーザーのマイページ(ユーザの詳細表示)
+* ユーザーのプロフィール編集機能
